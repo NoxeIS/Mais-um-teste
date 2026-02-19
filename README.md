@@ -1,8 +1,4 @@
 # Teste
 Mais um teste
 
-.......
-
-kkkkkkk
-
-hahahahhaha
+adicionei essa linha pelo site GitHub
